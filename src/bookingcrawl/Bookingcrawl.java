@@ -2,7 +2,7 @@
  * Script Name: bookingcrawl.java
  * Description: Crawls all data about hotels in a city from www.booking.com
  *              and saves in a file in txt format
- * Created By:  Eeran Maiti 11334191
+ * Created By:  Eeran Maiti
  * Date:        1 May 2014
  * Argument:    Output directory (Caution: not any file)
  * Instructions: Edit and customize the following parameters before running
